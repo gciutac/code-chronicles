@@ -12,3 +12,10 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+
+################
+# --- Logo --- #
+################
+
+avatar: "/assets/img/me.jpeg"
+round-avatar: true
